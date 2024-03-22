@@ -1,0 +1,3024 @@
+@charset "UTF-8";
+/* Text meant only for screen readers. */
+/* ===== Start ICONS CSS ===== */
+@font-face {
+  font-family: "hnice-icon";
+  src: url("./assets/fonts/icons/hnice-icon-1.0.8.eot");
+  src: url("./assets/fonts/icons/hnice-icon-1.0.8.eot?#iefix") format("eot"), url("./assets/fonts/icons/hnice-icon-1.0.8.woff2") format("woff2"), url("./assets/fonts/icons/hnice-icon-1.0.8.woff") format("woff"), url("./assets/fonts/icons/hnice-icon-1.0.8.ttf") format("truetype"), url("./assets/fonts/icons/hnice-icon-1.0.8.svg#hnice-icon-1.0.8") format("svg");
+}
+[class*=hnice-icon-] {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.hnice-icon-account:before {
+  content: "";
+}
+
+.hnice-icon-alarm:before {
+  content: "";
+}
+
+.hnice-icon-amazing-value:before {
+  content: "";
+}
+
+.hnice-icon-angle-double-left:before {
+  content: "";
+}
+
+.hnice-icon-angle-double-right:before {
+  content: "";
+}
+
+.hnice-icon-angle-down:before {
+  content: "";
+}
+
+.hnice-icon-angle-left:before {
+  content: "";
+}
+
+.hnice-icon-angle-right:before {
+  content: "";
+}
+
+.hnice-icon-angle-up:before {
+  content: "";
+}
+
+.hnice-icon-arrow-down-o:before {
+  content: "";
+}
+
+.hnice-icon-arrow-up-o:before {
+  content: "";
+}
+
+.hnice-icon-arrow_s:before {
+  content: "";
+}
+
+.hnice-icon-basin:before {
+  content: "";
+}
+
+.hnice-icon-bathroom:before {
+  content: "";
+}
+
+.hnice-icon-bathroom2:before {
+  content: "";
+}
+
+.hnice-icon-bathtub:before {
+  content: "";
+}
+
+.hnice-icon-bathtub2:before {
+  content: "";
+}
+
+.hnice-icon-box:before {
+  content: "";
+}
+
+.hnice-icon-breadcrumb:before {
+  content: "";
+}
+
+.hnice-icon-bullet-list-line:before {
+  content: "";
+}
+
+.hnice-icon-calendar-alt:before {
+  content: "";
+}
+
+.hnice-icon-cash-payment:before {
+  content: "";
+}
+
+.hnice-icon-check-o:before {
+  content: "";
+}
+
+.hnice-icon-check-square-solid:before {
+  content: "";
+}
+
+.hnice-icon-clock:before {
+  content: "";
+}
+
+.hnice-icon-close-circle-line:before {
+  content: "";
+}
+
+.hnice-icon-delivery:before {
+  content: "";
+}
+
+.hnice-icon-directly:before {
+  content: "";
+}
+
+.hnice-icon-facebook-o:before {
+  content: "";
+}
+
+.hnice-icon-faucet:before {
+  content: "";
+}
+
+.hnice-icon-featured:before {
+  content: "";
+}
+
+.hnice-icon-filters:before {
+  content: "";
+}
+
+.hnice-icon-heating:before {
+  content: "";
+}
+
+.hnice-icon-help-center:before {
+  content: "";
+}
+
+.hnice-icon-home-1:before {
+  content: "";
+}
+
+.hnice-icon-hours-support:before {
+  content: "";
+}
+
+.hnice-icon-hurry:before {
+  content: "";
+}
+
+.hnice-icon-instagram-o:before {
+  content: "";
+}
+
+.hnice-icon-left-arrow:before {
+  content: "";
+}
+
+.hnice-icon-linkedin-in:before {
+  content: "";
+}
+
+.hnice-icon-list-ul:before {
+  content: "";
+}
+
+.hnice-icon-location:before {
+  content: "";
+}
+
+.hnice-icon-mail-o:before {
+  content: "";
+}
+
+.hnice-icon-mail2:before {
+  content: "";
+}
+
+.hnice-icon-map-location-o:before {
+  content: "";
+}
+
+.hnice-icon-mobile-shopping:before {
+  content: "";
+}
+
+.hnice-icon-money-check:before {
+  content: "";
+}
+
+.hnice-icon-movies:before {
+  content: "";
+}
+
+.hnice-icon-phonecall:before {
+  content: "";
+}
+
+.hnice-icon-phonecall2:before {
+  content: "";
+}
+
+.hnice-icon-play-circle:before {
+  content: "";
+}
+
+.hnice-icon-play:before {
+  content: "";
+}
+
+.hnice-icon-plus-o:before {
+  content: "";
+}
+
+.hnice-icon-premium:before {
+  content: "";
+}
+
+.hnice-icon-quote-left:before {
+  content: "";
+}
+
+.hnice-icon-reflex:before {
+  content: "";
+}
+
+.hnice-icon-refund:before {
+  content: "";
+}
+
+.hnice-icon-repeat-wl:before {
+  content: "";
+}
+
+.hnice-icon-reply-line:before {
+  content: "";
+}
+
+.hnice-icon-right-arrow-cicrle:before {
+  content: "";
+}
+
+.hnice-icon-right-arrow:before {
+  content: "";
+}
+
+.hnice-icon-search2:before {
+  content: "";
+}
+
+.hnice-icon-send-back:before {
+  content: "";
+}
+
+.hnice-icon-setting:before {
+  content: "";
+}
+
+.hnice-icon-share-all:before {
+  content: "";
+}
+
+.hnice-icon-shopping-cart2:before {
+  content: "";
+}
+
+.hnice-icon-shoppingcart-o:before {
+  content: "";
+}
+
+.hnice-icon-shower-box:before {
+  content: "";
+}
+
+.hnice-icon-shower:before {
+  content: "";
+}
+
+.hnice-icon-sink:before {
+  content: "";
+}
+
+.hnice-icon-sliders-v:before {
+  content: "";
+}
+
+.hnice-icon-smartphone:before {
+  content: "";
+}
+
+.hnice-icon-star-o:before {
+  content: "";
+}
+
+.hnice-icon-support:before {
+  content: "";
+}
+
+.hnice-icon-system-arrow-right:before {
+  content: "";
+}
+
+.hnice-icon-th-large-o:before {
+  content: "";
+}
+
+.hnice-icon-tile:before {
+  content: "";
+}
+
+.hnice-icon-toilet:before {
+  content: "";
+}
+
+.hnice-icon-towel:before {
+  content: "";
+}
+
+.hnice-icon-truck:before {
+  content: "";
+}
+
+.hnice-icon-twitter-o:before {
+  content: "";
+}
+
+.hnice-icon-user-profile:before {
+  content: "";
+}
+
+.hnice-icon-working-hours:before {
+  content: "";
+}
+
+.hnice-icon-adobe:before {
+  content: "";
+}
+
+.hnice-icon-amazon:before {
+  content: "";
+}
+
+.hnice-icon-android:before {
+  content: "";
+}
+
+.hnice-icon-angular:before {
+  content: "";
+}
+
+.hnice-icon-apper:before {
+  content: "";
+}
+
+.hnice-icon-apple:before {
+  content: "";
+}
+
+.hnice-icon-atlassian:before {
+  content: "";
+}
+
+.hnice-icon-behance:before {
+  content: "";
+}
+
+.hnice-icon-bitbucket:before {
+  content: "";
+}
+
+.hnice-icon-bitcoin:before {
+  content: "";
+}
+
+.hnice-icon-bity:before {
+  content: "";
+}
+
+.hnice-icon-bluetooth:before {
+  content: "";
+}
+
+.hnice-icon-btc:before {
+  content: "";
+}
+
+.hnice-icon-centos:before {
+  content: "";
+}
+
+.hnice-icon-chrome:before {
+  content: "";
+}
+
+.hnice-icon-codepen:before {
+  content: "";
+}
+
+.hnice-icon-cpanel:before {
+  content: "";
+}
+
+.hnice-icon-discord:before {
+  content: "";
+}
+
+.hnice-icon-dochub:before {
+  content: "";
+}
+
+.hnice-icon-docker:before {
+  content: "";
+}
+
+.hnice-icon-dribbble:before {
+  content: "";
+}
+
+.hnice-icon-dropbox:before {
+  content: "";
+}
+
+.hnice-icon-drupal:before {
+  content: "";
+}
+
+.hnice-icon-ebay:before {
+  content: "";
+}
+
+.hnice-icon-facebook-f:before {
+  content: "";
+}
+
+.hnice-icon-facebook:before {
+  content: "";
+}
+
+.hnice-icon-figma:before {
+  content: "";
+}
+
+.hnice-icon-firefox:before {
+  content: "";
+}
+
+.hnice-icon-google-plus:before {
+  content: "";
+}
+
+.hnice-icon-google:before {
+  content: "";
+}
+
+.hnice-icon-grunt:before {
+  content: "";
+}
+
+.hnice-icon-gulp:before {
+  content: "";
+}
+
+.hnice-icon-html5:before {
+  content: "";
+}
+
+.hnice-icon-joomla:before {
+  content: "";
+}
+
+.hnice-icon-link-brand:before {
+  content: "";
+}
+
+.hnice-icon-linkedin:before {
+  content: "";
+}
+
+.hnice-icon-mailchimp:before {
+  content: "";
+}
+
+.hnice-icon-opencart:before {
+  content: "";
+}
+
+.hnice-icon-paypal:before {
+  content: "";
+}
+
+.hnice-icon-pinterest-p:before {
+  content: "";
+}
+
+.hnice-icon-reddit:before {
+  content: "";
+}
+
+.hnice-icon-skype:before {
+  content: "";
+}
+
+.hnice-icon-slack:before {
+  content: "";
+}
+
+.hnice-icon-snapchat:before {
+  content: "";
+}
+
+.hnice-icon-spotify:before {
+  content: "";
+}
+
+.hnice-icon-trello:before {
+  content: "";
+}
+
+.hnice-icon-twitter:before {
+  content: "";
+}
+
+.hnice-icon-vimeo:before {
+  content: "";
+}
+
+.hnice-icon-whatsapp:before {
+  content: "";
+}
+
+.hnice-icon-wordpress:before {
+  content: "";
+}
+
+.hnice-icon-yoast:before {
+  content: "";
+}
+
+.hnice-icon-youtube:before {
+  content: "";
+}
+
+.hnice-icon-360:before {
+  content: "";
+}
+
+.hnice-icon-arrow-down:before {
+  content: "";
+}
+
+.hnice-icon-arrow-left:before {
+  content: "";
+}
+
+.hnice-icon-arrow-right:before {
+  content: "";
+}
+
+.hnice-icon-arrow-up:before {
+  content: "";
+}
+
+.hnice-icon-bars:before {
+  content: "";
+}
+
+.hnice-icon-caret-down:before {
+  content: "";
+}
+
+.hnice-icon-caret-left:before {
+  content: "";
+}
+
+.hnice-icon-caret-right:before {
+  content: "";
+}
+
+.hnice-icon-caret-up:before {
+  content: "";
+}
+
+.hnice-icon-cart-empty:before {
+  content: "";
+}
+
+.hnice-icon-cart:before {
+  content: "";
+}
+
+.hnice-icon-check-square:before {
+  content: "";
+}
+
+.hnice-icon-chevron-down:before {
+  content: "";
+}
+
+.hnice-icon-chevron-left:before {
+  content: "";
+}
+
+.hnice-icon-chevron-right:before {
+  content: "";
+}
+
+.hnice-icon-chevron-up:before {
+  content: "";
+}
+
+.hnice-icon-circle:before {
+  content: "";
+}
+
+.hnice-icon-cloud-download-alt:before {
+  content: "";
+}
+
+.hnice-icon-comment:before {
+  content: "";
+}
+
+.hnice-icon-comments:before {
+  content: "";
+}
+
+.hnice-icon-compare:before {
+  content: "";
+}
+
+.hnice-icon-contact:before {
+  content: "";
+}
+
+.hnice-icon-credit-card:before {
+  content: "";
+}
+
+.hnice-icon-dot-circle:before {
+  content: "";
+}
+
+.hnice-icon-edit:before {
+  content: "";
+}
+
+.hnice-icon-envelope:before {
+  content: "";
+}
+
+.hnice-icon-expand-alt:before {
+  content: "";
+}
+
+.hnice-icon-external-link-alt:before {
+  content: "";
+}
+
+.hnice-icon-file-alt:before {
+  content: "";
+}
+
+.hnice-icon-file-archive:before {
+  content: "";
+}
+
+.hnice-icon-filter:before {
+  content: "";
+}
+
+.hnice-icon-folder-open:before {
+  content: "";
+}
+
+.hnice-icon-folder:before {
+  content: "";
+}
+
+.hnice-icon-frown:before {
+  content: "";
+}
+
+.hnice-icon-gift:before {
+  content: "";
+}
+
+.hnice-icon-grip-horizontal:before {
+  content: "";
+}
+
+.hnice-icon-heart-fill:before {
+  content: "";
+}
+
+.hnice-icon-heart:before {
+  content: "";
+}
+
+.hnice-icon-history:before {
+  content: "";
+}
+
+.hnice-icon-home:before {
+  content: "";
+}
+
+.hnice-icon-info-circle:before {
+  content: "";
+}
+
+.hnice-icon-instagram:before {
+  content: "";
+}
+
+.hnice-icon-level-up-alt:before {
+  content: "";
+}
+
+.hnice-icon-list:before {
+  content: "";
+}
+
+.hnice-icon-map-marker-check:before {
+  content: "";
+}
+
+.hnice-icon-meh:before {
+  content: "";
+}
+
+.hnice-icon-minus-circle:before {
+  content: "";
+}
+
+.hnice-icon-minus:before {
+  content: "";
+}
+
+.hnice-icon-mobile-android-alt:before {
+  content: "";
+}
+
+.hnice-icon-money-bill:before {
+  content: "";
+}
+
+.hnice-icon-paper-plane:before {
+  content: "";
+}
+
+.hnice-icon-pencil-alt:before {
+  content: "";
+}
+
+.hnice-icon-plus-circle:before {
+  content: "";
+}
+
+.hnice-icon-plus:before {
+  content: "";
+}
+
+.hnice-icon-quickview:before {
+  content: "";
+}
+
+.hnice-icon-random:before {
+  content: "";
+}
+
+.hnice-icon-rating-stroke:before {
+  content: "";
+}
+
+.hnice-icon-rating:before {
+  content: "";
+}
+
+.hnice-icon-repeat:before {
+  content: "";
+}
+
+.hnice-icon-reply-all:before {
+  content: "";
+}
+
+.hnice-icon-reply:before {
+  content: "";
+}
+
+.hnice-icon-search-plus:before {
+  content: "";
+}
+
+.hnice-icon-search:before {
+  content: "";
+}
+
+.hnice-icon-shield-check:before {
+  content: "";
+}
+
+.hnice-icon-shopping-basket:before {
+  content: "";
+}
+
+.hnice-icon-shopping-cart:before {
+  content: "";
+}
+
+.hnice-icon-sign-out-alt:before {
+  content: "";
+}
+
+.hnice-icon-smile:before {
+  content: "";
+}
+
+.hnice-icon-spinner:before {
+  content: "";
+}
+
+.hnice-icon-square:before {
+  content: "";
+}
+
+.hnice-icon-star:before {
+  content: "";
+}
+
+.hnice-icon-store:before {
+  content: "";
+}
+
+.hnice-icon-sync:before {
+  content: "";
+}
+
+.hnice-icon-tachometer-alt:before {
+  content: "";
+}
+
+.hnice-icon-th-large:before {
+  content: "";
+}
+
+.hnice-icon-th-list:before {
+  content: "";
+}
+
+.hnice-icon-thumbtack:before {
+  content: "";
+}
+
+.hnice-icon-ticket:before {
+  content: "";
+}
+
+.hnice-icon-times-circle:before {
+  content: "";
+}
+
+.hnice-icon-times:before {
+  content: "";
+}
+
+.hnice-icon-trophy-alt:before {
+  content: "";
+}
+
+.hnice-icon-user-headset:before {
+  content: "";
+}
+
+.hnice-icon-user-shield:before {
+  content: "";
+}
+
+.hnice-icon-user:before {
+  content: "";
+}
+
+.hnice-icon-video:before {
+  content: "";
+}
+
+.hnice-icon-wishlist-empty:before {
+  content: "";
+}
+
+.hnice-icon-wishlist:before {
+  content: "";
+}
+
+/* ===== End ICONS CSS ===== */
+.hnice-social ul {
+  margin: 0;
+  list-style-type: none;
+}
+.hnice-social ul li {
+  display: inline-block;
+  margin-right: 10px;
+  line-height: 1;
+}
+.hnice-social ul li:last-child {
+  margin-right: 0;
+}
+.hnice-social ul li a:before {
+  position: relative;
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.hnice-social ul li a[href*=twitter]:before {
+  content: "";
+  color: #1DA1F2;
+}
+.hnice-social ul li a[href*=instagram]:before {
+  content: "";
+  color: #262626;
+}
+.hnice-social ul li a[href*=docker]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=dochub]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=yelp]:before {
+  content: "";
+  color: #af0606;
+}
+.hnice-social ul li a[href*=flickr]:before {
+  content: "";
+  color: #0063dc;
+}
+.hnice-social ul li a[href*=github]:before {
+  content: "";
+  color: #333333;
+}
+.hnice-social ul li a[href*=dribbble]:before {
+  content: "";
+  color: #ea4c89;
+}
+.hnice-social ul li a[href*=wordpress]:before {
+  content: "";
+  color: #21759b;
+}
+.hnice-social ul li a[href*=tumblr]:before {
+  content: "";
+  color: #35465c;
+}
+.hnice-social ul li a[href*=angular]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=atlassian]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=snapchat]:before {
+  content: "";
+  color: #fffc00;
+}
+.hnice-social ul li a[href*=apper]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=codepen]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=gulp]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=cpanel]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=skype]:before {
+  content: "";
+  color: #00AFF0;
+}
+.hnice-social ul li a[href*=reddit]:before {
+  content: "";
+  color: #ff4500;
+}
+.hnice-social ul li a[href*=whatsapp]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=slack]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=amazon]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=android]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=grunt]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=firefox]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=adobe]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=behance]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=dropbox]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=facebook]:before {
+  content: "";
+  color: #3b5998;
+}
+.hnice-social ul li a[href*=linkedin]:before {
+  content: "";
+  color: #0077b5;
+}
+.hnice-social ul li a[href*=paypal]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=trello]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=vimeo]:before {
+  content: "";
+  color: #1ab7ea;
+}
+.hnice-social ul li a[href*=youtube]:before {
+  content: "";
+  color: #cd201f;
+}
+.hnice-social ul li a[href*=apple]:before {
+  content: "";
+  color: #999999;
+}
+.hnice-social ul li a[href*=bitbucket]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=bitcoin]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=bluetooth]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=bity]:before {
+  content: "";
+}
+.hnice-social ul li a[href*="google/chrome"]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=drupal]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=html5]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=mailchimp]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=jenkins]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=spotify]:before {
+  content: "";
+  color: #2ebd59;
+}
+.hnice-social ul li a[href*=ebay]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=telegram]:before {
+  content: "";
+  color: #2CA5E0;
+}
+.hnice-social ul li a[href*=yoast]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=btc-e]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=discord]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=google]:before {
+  content: "";
+  color: #dd4b39;
+}
+.hnice-social ul li a[href*=google-plus]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=figma]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=joomla]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=opencart]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=pinterest]:before {
+  content: "";
+  color: #bd081c;
+}
+.hnice-social ul li a[href*=vimeo]:before {
+  content: "";
+  color: #1ab7ea;
+}
+.hnice-social ul li a[href*=centos]:before {
+  content: "";
+}
+.hnice-social ul li a[href*=whatsapp]:before {
+  content: "";
+}
+
+#comments .commentlist .bypostauthor > .comment-body cite::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407797364em;
+}
+#comments .reply a::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-top: -5px;
+}
+#comments .reply a.comment-edit-link::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+#respond #cancel-comment-reply-link::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  display: block;
+}
+
+.sticky .entry-title::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407797364em;
+}
+
+button.loading,
+input[type=button].loading,
+input[type=reset].loading,
+input[type=submit].loading,
+.button.loading {
+  position: relative;
+}
+button.loading::after,
+input[type=button].loading::after,
+input[type=reset].loading::after,
+input[type=submit].loading::after,
+.button.loading::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 20px;
+  width: 20px;
+  line-height: 20px;
+  font-size: 20px;
+  font-size: 1.25rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -10px;
+  margin-top: -10px;
+  display: block;
+}
+
+a[class*=product_type_].loading,
+.added_to_cart.loading {
+  position: relative;
+}
+a[class*=product_type_].loading:after,
+.added_to_cart.loading:after {
+  content: "";
+}
+a[class*=product_type_].loading:before,
+.added_to_cart.loading:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 15px;
+  width: 15px;
+  line-height: 15px;
+  font-size: 15px;
+  font-size: 0.9375rem;
+}
+
+.shop-action .blockUI.blockOverlay:before,
+.shop-action .loader:before {
+  top: 50%;
+  left: 50%;
+  opacity: 1 !important;
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  font-size: 20px;
+  font-size: 1.25rem;
+  width: 20px;
+  height: 20px;
+  line-height: 1;
+  position: absolute;
+  display: block !important;
+  margin-left: -10px;
+  margin-top: -10px;
+  color: #000;
+}
+
+.shop-action .blockUI.blockOverlay {
+  opacity: 1 !important;
+  overflow: hidden;
+  background-image: none !important;
+  background: #fff !important;
+}
+
+.main-navigtion ul li a::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407797364em;
+}
+
+.mobile-navigation ul li button::after, .mobile-navigation-categories ul li button::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.mobile-navigation ul li button.toggled-on::after, .mobile-navigation-categories ul li button.toggled-on::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.widget_search:not(.widget_block) form::before,
+.widget_product_search form::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translate(0, -50%);
+  z-index: 1;
+  height: 52px;
+  width: 60px;
+  justify-content: center;
+  align-items: center;
+  display: inline-flex;
+}
+
+form.wp-block-search::before {
+  display: none;
+}
+form.wp-block-search .wp-block-search__inside-wrapper {
+  position: relative;
+}
+form.wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.single-product .pswp__button {
+  background-color: transparent;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+  text-indent: -999px;
+  overflow: hidden;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  display: block;
+  line-height: 20px;
+  text-indent: 0;
+  font-weight: var(--e-global-typography-primary-font-weight);
+  font-size: 20px;
+  font-size: 1.25rem;
+}
+.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger img {
+  display: none !important;
+}
+.single-product div.product .entry-summary .yith-wcwl-add-to-wishlist > div > a:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.single-product div.product .entry-summary .compare:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.stock::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407797364em;
+  margin-top: -4px;
+}
+.stock.in-stock::before {
+  content: "";
+}
+
+.content-area .hnice-dropdown-filter-wrap .widget_layered_nav ul {
+  margin-left: 0;
+}
+.content-area .hnice-dropdown-filter-wrap .widget_layered_nav ul li {
+  padding-left: 1.618034em;
+}
+.content-area .hnice-dropdown-filter-wrap .widget_layered_nav ul li::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407797364em;
+  display: block;
+  float: left;
+  opacity: 0.35;
+  margin-left: -1.618034em;
+  width: 1em;
+}
+.content-area .hnice-dropdown-filter-wrap .widget_layered_nav ul li .children {
+  margin-left: 0;
+}
+.content-area .hnice-dropdown-filter-wrap .widget_layered_nav li::before {
+  content: "";
+}
+.content-area .hnice-dropdown-filter-wrap .widget_layered_nav .chosen::before {
+  content: "";
+}
+
+.hnice-canvas-filter .hnice-canvas-filter-wrap .widget_layered_nav ul {
+  margin-left: 0;
+}
+.hnice-canvas-filter .hnice-canvas-filter-wrap .widget_layered_nav ul li {
+  padding-left: 1.618034em;
+}
+.hnice-canvas-filter .hnice-canvas-filter-wrap .widget_layered_nav ul li::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  margin-right: 0.5407797364em;
+  display: block;
+  float: left;
+  opacity: 0.35;
+  margin-left: -1.618034em;
+  width: 1em;
+}
+.hnice-canvas-filter .hnice-canvas-filter-wrap .widget_layered_nav ul li .children {
+  margin-left: 0;
+}
+.hnice-canvas-filter .hnice-canvas-filter-wrap .widget_layered_nav li::before {
+  content: "";
+}
+.hnice-canvas-filter .hnice-canvas-filter-wrap .widget_layered_nav .chosen::before {
+  content: "";
+}
+
+a.remove {
+  display: block;
+  width: 1.618034em;
+  height: 1.618034em;
+  line-height: 1.618;
+  font-weight: var(--e-global-typography-text-font-weight);
+  text-indent: -9999px;
+  position: relative;
+}
+a.remove::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: var(--e-global-color-lighter);
+  line-height: 1.618;
+  text-indent: 0;
+  text-align: center;
+}
+
+.woocommerce-shipping-calculator > p:first-child a::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.3342202552em;
+}
+
+.blockUI::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  font-size: 30px;
+  font-size: 1.875rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -15px;
+  margin-top: -15px;
+}
+
+.woocommerce-pagination .next,
+.woocommerce-pagination .prev {
+  display: inline-block;
+  position: relative;
+}
+
+#shipping_method li > label {
+  cursor: pointer;
+  padding-right: 20px;
+  position: relative;
+}
+#shipping_method li > label::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+#shipping_method li > input[type=radio]:first-child {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+  /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+#shipping_method li > input[type=radio]:first-child:focus {
+  background-color: #f1f1f1;
+  color: #21759b;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-family: var(--e-global-typography-check-typo(secondary)-font-family);
+  font-weight: var(--e-global-typography-check-typo(secondary)-font-weight);
+  text-transform: var(--e-global-typography-check-typo(secondary)-text-transform);
+  font-style: var(--e-global-typography-check-typo(secondary)-font-style);
+  text-decoration: var(--e-global-typography-check-typo(secondary)-text-decoration);
+  line-height: var(--e-global-typography-check-typo(secondary)-line-height);
+  letter-spacing: var(--e-global-typography-check-typo(secondary)-letter-spacing);
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+#shipping_method li > input[type=radio]:first-child:checked + label::after {
+  content: "";
+}
+#shipping_method li > input[type=hidden]:first-child + label {
+  padding-right: 0;
+}
+#shipping_method li > input[type=hidden]:first-child + label::after {
+  content: none;
+}
+
+#payment .payment_methods li > label {
+  cursor: pointer;
+}
+#payment .payment_methods li > label::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407797364em;
+  transition: color, ease, 0.2s;
+}
+#payment .payment_methods li > input[type=radio]:first-child {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  word-wrap: normal !important;
+  /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+#payment .payment_methods li > input[type=radio]:first-child:focus {
+  background-color: #f1f1f1;
+  color: #21759b;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+  clip: auto !important;
+  display: block;
+  font-size: 14px;
+  font-size: 0.875rem;
+  font-family: var(--e-global-typography-check-typo(secondary)-font-family);
+  font-weight: var(--e-global-typography-check-typo(secondary)-font-weight);
+  text-transform: var(--e-global-typography-check-typo(secondary)-text-transform);
+  font-style: var(--e-global-typography-check-typo(secondary)-font-style);
+  text-decoration: var(--e-global-typography-check-typo(secondary)-text-decoration);
+  line-height: var(--e-global-typography-check-typo(secondary)-line-height);
+  letter-spacing: var(--e-global-typography-check-typo(secondary)-letter-spacing);
+  height: auto;
+  left: 5px;
+  line-height: normal;
+  padding: 15px 23px 14px;
+  text-decoration: none;
+  top: 5px;
+  width: auto;
+  z-index: 100000;
+  /* Above WP toolbar. */
+}
+#payment .payment_methods li > input[type=radio]:first-child:checked + label::before {
+  content: "";
+}
+
+.woocommerce-password-strength::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407797364em;
+}
+.woocommerce-password-strength.strong::after {
+  content: "";
+}
+.woocommerce-password-strength.good::after {
+  content: "";
+}
+
+.woocommerce-MyAccount-navigation ul li.is-active a::before {
+  opacity: 1;
+}
+.woocommerce-MyAccount-navigation ul li a::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: 1.618;
+  margin-left: 0.5407797364em;
+  width: 1.41577975em;
+  text-align: right;
+  float: right;
+  opacity: 0.25;
+}
+.woocommerce-MyAccount-navigation ul li a:hover::before {
+  opacity: 1;
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--dashboard a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--orders a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--downloads a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--edit-address a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--payment-methods a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--edit-account a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--customer-logout a::before {
+  content: "";
+}
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--subscriptions a::before {
+  content: "";
+}
+
+.my_account_orders .button.view::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407797364em;
+}
+
+p.order-again .button::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407797364em;
+}
+
+.woocommerce-MyAccount-downloads .button::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407797364em;
+}
+
+.demo_store::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407797364em;
+}
+
+#reviews .commentlist li p.meta .verified {
+  display: inline-block;
+  height: 1.41577975em;
+  width: 1.41577975em;
+  position: relative;
+  text-indent: -9999px;
+}
+#reviews .commentlist li p.meta .verified::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  color: #0f834d;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1.41577975em;
+  height: 1.41577975em;
+  text-indent: 0;
+  text-align: center;
+  line-height: 1.618034em;
+}
+
+/**
+ * Composite Products
+ */
+.single-product div.product .component_selections .clear_component_options::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407797364em;
+}
+
+/**
+ * Mix and Match
+ */
+.cart .mnm_table_item .mnm_table_item_indent::before,
+.shop_table .mnm_table_item .mnm_table_item_indent::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  transform: rotate(90deg);
+  margin-right: 0.3819660059em;
+  opacity: 0.25;
+}
+
+/**
+ * Quick view
+ */
+.quick-view-button::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.6180339845em;
+}
+
+/**
+ * Ship multiple addresses
+ */
+.woocommerce-page .ship_address .gift-form label::after,
+.woocommerce-page .no_shipping_address .gift-form label::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5407797364em;
+}
+.woocommerce-page .ship_address .modify-address-button::before,
+.woocommerce-page .no_shipping_address .modify-address-button::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407797364em;
+}
+.woocommerce-page .addresses + .addresses header.title a::before {
+  content: "";
+}
+
+/**
+ * Product reviews pro
+ */
+.woocommerce .woocommerce-MyAccount-navigation li.woocommerce-MyAccount-navigation-link--contributions a::before,
+.woocommerce-page .woocommerce-MyAccount-navigation li.woocommerce-MyAccount-navigation-link--contributions a::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+/**
+ * Variation Swatches
+ */
+a#variations_clear::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407797364em;
+}
+
+/**
+ * Wishlists
+ */
+.wl-add-link::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407797364em;
+}
+
+.button.wl-create-new::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 0.5407797364em;
+}
+
+.site-header-cart .cart-contents::before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.elementor-widget-hnice-vertical-menu .vertical-navigation .hnice-icon {
+  position: relative;
+}
+.elementor-widget-hnice-vertical-menu .vertical-navigation .hnice-icon::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 12px;
+  font-size: 0.75rem;
+  transition: transform 0.2s;
+}
+
+@media (min-width: 768px) {
+  .main-navigation ul.menu > li.menu-item-has-children > a:after, .main-navigation ul.menu > li.page_item_has_children > a:after, .main-navigation ul.menu > li.has-mega-menu > a:after,
+.main-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.main-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.main-navigation ul.nav-menu > li.has-mega-menu > a:after {
+    font-family: "hnice-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: 6px;
+    font-size: 15px;
+    font-size: 0.9375rem;
+    margin-bottom: 6px;
+  }
+  .gecko .main-navigation ul.menu > li.menu-item-has-children > a:after, .gecko .main-navigation ul.menu > li.page_item_has_children > a:after, .gecko .main-navigation ul.menu > li.has-mega-menu > a:after,
+.gecko .main-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.gecko .main-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.gecko .main-navigation ul.nav-menu > li.has-mega-menu > a:after {
+    margin-bottom: 0;
+    vertical-align: sub;
+  }
+
+  .header-side .main-navigation ul.menu > li.menu-item-has-children > a::after, .header-side .main-navigation ul.menu > li.page_item_has_children > a::after, .header-side .main-navigation ul.menu > li.has-mega-menu > a::after,
+.header-side .main-navigation ul.nav-menu > li.menu-item-has-children > a::after,
+.header-side .main-navigation ul.nav-menu > li.page_item_has_children > a::after,
+.header-side .main-navigation ul.nav-menu > li.has-mega-menu > a::after {
+    font-family: "hnice-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: 1em;
+    margin-right: -25px;
+  }
+
+  .vertical-navigation ul.menu > li.menu-item-has-children > a::after, .vertical-navigation ul.menu > li.page_item_has_children > a::after, .vertical-navigation ul.menu > li.has-mega-menu > a::after,
+.vertical-navigation ul.nav-menu > li.menu-item-has-children > a::after,
+.vertical-navigation ul.nav-menu > li.page_item_has_children > a::after,
+.vertical-navigation ul.nav-menu > li.has-mega-menu > a::after {
+    font-family: "hnice-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-left: auto;
+    float: right;
+    font-size: 9px;
+    font-size: 0.5625rem;
+  }
+
+  .main-navigation ul.menu ul li.menu-item-has-children > a::after, .main-navigation ul.menu ul li.page_item_has_children > a::after,
+.main-navigation ul.nav-menu ul li.menu-item-has-children > a::after,
+.main-navigation ul.nav-menu ul li.page_item_has_children > a::after {
+    font-family: "hnice-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    float: right;
+    margin-left: 10px;
+    line-height: 1.5;
+  }
+
+  .demo_store a.woocommerce-store-notice__dismiss-link::before {
+    font-family: "hnice-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    margin-right: 0.3342202552em;
+  }
+
+  .addresses header.title a {
+    display: block;
+    width: 1em;
+    height: 1em;
+    text-indent: -9999px;
+    position: relative;
+    padding: 0.875em;
+    margin-top: 0.6180339845em;
+  }
+  .addresses header.title a::before {
+    font-family: "hnice-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    line-height: 1.618;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    text-indent: 0;
+  }
+
+  /**
+   * Wishlists
+   */
+  #wl-wrapper .wl-tabs > li.active::after {
+    font-family: "hnice-icon";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    vertical-align: middle;
+    content: "";
+    display: block !important;
+    position: absolute;
+    top: 50%;
+    height: 1em;
+    width: 1em;
+    margin-top: -0.5em;
+  }
+}
+ul.wishlist_table.mobile .remove_from_wishlist:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.slick-prev:before {
+  content: "";
+}
+[dir=rtl] .slick-prev:before {
+  content: "";
+}
+.woocommerce-product-gallery-vertical .slick-prev:before {
+  content: "";
+}
+.woocommerce-product-gallery-horizontal .slick-prev:before {
+  content: "";
+}
+
+.slick-next:before {
+  content: "";
+}
+[dir=rtl] .slick-next:before {
+  content: "";
+}
+.woocommerce-product-gallery-vertical .slick-next:before {
+  content: "";
+}
+.woocommerce-product-gallery-horizontal .slick-next:before {
+  content: "";
+}
+
+.arrow-style-3 .slick-prev:before {
+  content: "";
+}
+[dir=rtl] .arrow-style-3 .slick-prev:before {
+  content: "";
+}
+.arrow-style-3 .slick-next:before {
+  content: "";
+}
+[dir=rtl] .arrow-style-3 .slick-next:before {
+  content: "";
+}
+
+body.loading {
+  position: relative;
+}
+body.loading::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  font-size: 40px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  display: block;
+  z-index: 999999;
+  color: #fff;
+}
+body.loading:before {
+  content: "";
+  display: block;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 999998;
+}
+
+.woocommerce-cart .cart-empty:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 164px;
+  color: var(--e-global-color-lighter);
+  display: block;
+  margin-bottom: 50px;
+}
+
+h2.resp-accordion:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 10px;
+}
+h2.resp-accordion.active:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.widget_product_categories .icon-minus {
+  float: right;
+  width: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+.widget_product_categories .icon-minus:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 10px;
+  font-size: 0.625rem;
+}
+.widget_product_categories .icon-plus {
+  float: right;
+  width: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+.widget_product_categories .icon-plus:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 10px;
+  font-size: 0.625rem;
+}
+
+ul.products-list li.product-list .product-caption a[class*=product_type_]:before,
+ul.products-list li.product-list .product-caption .woosc-btn:before,
+ul.products-list li.product-list .product-caption .woosw-btn:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+ul.products-list li.product-list .product-caption a[class*=product_type_]:before {
+  content: "";
+}
+ul.products-list li.product-list .product-caption .woosw-btn:before {
+  content: "";
+}
+ul.products-list li.product-list .product-caption .woosw-btn.woosw-adding:after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  line-height: inherit;
+  content: "" !important;
+}
+ul.products-list li.product-list .product-caption .woosc-btn:before {
+  content: "";
+}
+
+.shop-action .woosc-btn:before,
+.shop-action .woosq-btn:before,
+.shop-action .woosw-btn:before,
+.shop-action a[class*=product_type_]:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+.shop-action .woosw-btn:before {
+  content: "";
+}
+.shop-action .woosw-btn.woosw-adding:after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  line-height: inherit;
+  content: "" !important;
+}
+.shop-action .woosc-btn:before {
+  content: "";
+}
+.shop-action .woosq-btn:before {
+  content: "";
+}
+.shop-action a[class*=product_type_]:before {
+  content: "";
+}
+.shop-action a[class*=product_type_].loading {
+  position: relative;
+}
+.shop-action a[class*=product_type_].loading:after {
+  content: "";
+}
+.shop-action a[class*=product_type_].loading:before {
+  content: "";
+  animation: fa-spin 0.75s linear infinite;
+}
+
+.single-product div.product .entry-summary .woosc-btn:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: inherit;
+}
+.single-product div.product .entry-summary .woosw-btn:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  line-height: inherit;
+}
+
+a.read-more:after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 5px;
+}
+
+.elementor-widget-hnice-language-switcher.language-switcher-style-mobile .hnice-language-switcher .language-switcher-head:after {
+  position: relative;
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5em;
+  line-height: 12px;
+}
+
+.loading-quick-shop .product-transition::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.search-by-category .input-dropdown-inner > a:after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.popup-navigation ul.menu > li.menu-item-has-children > a:after, .popup-navigation ul.menu > li.page_item_has_children > a:after, .popup-navigation ul.menu > li.has-mega-menu > a:after,
+.popup-navigation ul.nav-menu > li.menu-item-has-children > a:after,
+.popup-navigation ul.nav-menu > li.page_item_has_children > a:after,
+.popup-navigation ul.nav-menu > li.has-mega-menu > a:after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 0.5em;
+  font-size: 16px;
+  font-size: 1rem;
+}
+
+.popup-navigation ul.menu ul li.menu-item-has-children > a::after, .popup-navigation ul.menu ul li.page_item_has_children > a::after,
+.popup-navigation ul.nav-menu ul li.menu-item-has-children > a::after,
+.popup-navigation ul.nav-menu ul li.page_item_has_children > a::after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  float: right;
+  margin-left: 0.5em;
+  line-height: 20px;
+  font-size: 14px;
+  font-size: 0.875rem;
+}
+
+.hnice-elementor-single-product .shop-button a[class*=product_type_]:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-left: 5px;
+  margin-top: 3px;
+  float: right;
+  transition: all 0.3s ease;
+}
+
+.elementor-widget-hnice-image-gallery .column-item a:after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.woosw-list .woosw-content-mid-notice:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 164px;
+  color: var(--e-global-color-lighter);
+  display: block;
+  margin-bottom: 50px;
+}
+
+@keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+@-webkit-keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+@-o-keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+@-ms-keyframes mf-spin-fast {
+  0% {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+    animation-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+  }
+  50% {
+    -webkit-transform: rotate(900deg);
+    transform: rotate(900deg);
+    animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+  to {
+    -webkit-transform: rotate(1800deg);
+    transform: rotate(1800deg);
+  }
+}
+.elementor-widget-hnice-search .widget.widget_product_search button[type=submit]:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.woocommerce-tabs.product-accordions .accordion-head:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.comment-form .form-submit .submit:after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+nav.post-navigation .nav-previous .reader-text:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 14px;
+  font-size: 0.875rem;
+  padding-right: 5px;
+  line-height: 5px;
+}
+
+nav.post-navigation .nav-next .reader-text:after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 14px;
+  font-size: 0.875rem;
+  padding-left: 5px;
+  line-height: 5px;
+}
+
+.elementor-widget-opal-image-hotspots .elementor-tab-title:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+.elementor-widget-opal-image-hotspots .elementor-tab-title.elementor-active:before {
+  content: "";
+}
+
+.scrollup .scrollup-icon:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.elementor-widget-woocommerce-breadcrumb .woocommerce-breadcrumb > a:first-of-type:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  margin-right: 5px;
+  top: -2px;
+  position: relative;
+  font-size: 16px;
+  opacity: 0.85;
+  display: none;
+}
+
+.star-rating {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+.star-rating:before {
+  content: "" " " "" " " "" " " "" " " "";
+}
+.star-rating span::before {
+  content: "" " " "" " " "" " " "" " " "";
+}
+
+a.more-link:after {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.elementor-testimonial-item-wrapper .layout-4 .caption-top:before {
+  border: 1px solid var(--e-global-color-border);
+  border-radius: 50%;
+  content: "";
+  position: absolute;
+  animation-timing-function: linear;
+  z-index: -1;
+  transform: scale(1);
+  pointer-events: none;
+  width: 200px;
+  height: 200px;
+  top: 6px;
+  right: 0;
+  bottom: 0;
+  left: 8px;
+}
+
+form.woocommerce-form-track-order button:after {
+  font-size: 24px;
+  font-size: 1.5rem;
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  padding-left: 5px;
+  line-height: 5px;
+}
+
+.woocommerce-widget-layered-nav-list li:before,
+.product-brands li:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 20px;
+  font-size: 1.25rem;
+}
+.woocommerce-widget-layered-nav-list li:hover:before, .woocommerce-widget-layered-nav-list li:focus:before, .woocommerce-widget-layered-nav-list li:active:before, .woocommerce-widget-layered-nav-list li.chosen:before,
+.product-brands li:hover:before,
+.product-brands li:focus:before,
+.product-brands li:active:before,
+.product-brands li.chosen:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.product-categories li:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 20px;
+  font-size: 1.25rem;
+  margin-top: -4px;
+  margin-right: 13px;
+}
+.product-categories li:hover:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+}
+
+.single_add_to_cart_button:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 20px;
+  font-size: 1.25rem;
+  padding-right: 9px;
+}
+
+.wp-element-button:before {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+  content: "";
+  font-size: 20px;
+  font-size: 1.25rem;
+  padding-right: 10px;
+  margin-top: -4px;
+}
+@media (max-width: 1023px) {
+  .wp-element-button:before {
+    font-size: 15px;
+    padding-right: 5px;
+  }
+}
+
+/*# sourceMappingURL=icons.css.map */

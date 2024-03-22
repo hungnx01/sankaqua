@@ -1,0 +1,910 @@
+
+@font-face {
+  font-family: "hnice-icon";
+  src: url("../../../fonts/icons/hnice-icon-1.0.0.eot");
+  src: url("../../../fonts/icons/hnice-icon-1.0.0.eot?#iefix") format("eot"), url("../../../fonts/icons/hnice-icon-1.0.0.woff2") format("woff2"), url("../../../fonts/icons/hnice-icon-1.0.0.woff") format("woff"), url("../../../fonts/icons/hnice-icon-1.0.0.ttf") format("truetype"), url("../../../fonts/icons/hnice-icon-1.0.0.svg#hnice-icon-1.0.0") format("svg");
+}
+[class*=hnice-icon-] {
+  font-family: "hnice-icon";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+.hnice-icon-adobe:before {
+  content: "";
+}
+
+.hnice-icon-amazon:before {
+  content: "";
+}
+
+.hnice-icon-android:before {
+  content: "";
+}
+
+.hnice-icon-angular:before {
+  content: "";
+}
+
+.hnice-icon-apper:before {
+  content: "";
+}
+
+.hnice-icon-apple:before {
+  content: "";
+}
+
+.hnice-icon-atlassian:before {
+  content: "";
+}
+
+.hnice-icon-behance:before {
+  content: "";
+}
+
+.hnice-icon-bitbucket:before {
+  content: "";
+}
+
+.hnice-icon-bitcoin:before {
+  content: "";
+}
+
+.hnice-icon-bity:before {
+  content: "";
+}
+
+.hnice-icon-bluetooth:before {
+  content: "";
+}
+
+.hnice-icon-btc:before {
+  content: "";
+}
+
+.hnice-icon-centos:before {
+  content: "";
+}
+
+.hnice-icon-chrome:before {
+  content: "";
+}
+
+.hnice-icon-codepen:before {
+  content: "";
+}
+
+.hnice-icon-cpanel:before {
+  content: "";
+}
+
+.hnice-icon-discord:before {
+  content: "";
+}
+
+.hnice-icon-dochub:before {
+  content: "";
+}
+
+.hnice-icon-docker:before {
+  content: "";
+}
+
+.hnice-icon-dribbble:before {
+  content: "";
+}
+
+.hnice-icon-dropbox:before {
+  content: "";
+}
+
+.hnice-icon-drupal:before {
+  content: "";
+}
+
+.hnice-icon-ebay:before {
+  content: "";
+}
+
+.hnice-icon-facebook-f:before {
+  content: "";
+}
+
+.hnice-icon-facebook:before {
+  content: "";
+}
+
+.hnice-icon-figma:before {
+  content: "";
+}
+
+.hnice-icon-firefox:before {
+  content: "";
+}
+
+.hnice-icon-google-plus:before {
+  content: "";
+}
+
+.hnice-icon-google:before {
+  content: "";
+}
+
+.hnice-icon-grunt:before {
+  content: "";
+}
+
+.hnice-icon-gulp:before {
+  content: "";
+}
+
+.hnice-icon-html5:before {
+  content: "";
+}
+
+.hnice-icon-joomla:before {
+  content: "";
+}
+
+.hnice-icon-link-brand:before {
+  content: "";
+}
+
+.hnice-icon-linkedin:before {
+  content: "";
+}
+
+.hnice-icon-mailchimp:before {
+  content: "";
+}
+
+.hnice-icon-opencart:before {
+  content: "";
+}
+
+.hnice-icon-paypal:before {
+  content: "";
+}
+
+.hnice-icon-pinterest-p:before {
+  content: "";
+}
+
+.hnice-icon-reddit:before {
+  content: "";
+}
+
+.hnice-icon-skype:before {
+  content: "";
+}
+
+.hnice-icon-slack:before {
+  content: "";
+}
+
+.hnice-icon-snapchat:before {
+  content: "";
+}
+
+.hnice-icon-spotify:before {
+  content: "";
+}
+
+.hnice-icon-trello:before {
+  content: "";
+}
+
+.hnice-icon-twitter:before {
+  content: "";
+}
+
+.hnice-icon-vimeo:before {
+  content: "";
+}
+
+.hnice-icon-whatsapp:before {
+  content: "";
+}
+
+.hnice-icon-wordpress:before {
+  content: "";
+}
+
+.hnice-icon-yoast:before {
+  content: "";
+}
+
+.hnice-icon-youtube:before {
+  content: "";
+}
+
+.hnice-icon-account:before {
+  content: "";
+}
+
+.hnice-icon-alarm:before {
+  content: "";
+}
+
+.hnice-icon-amazing-value:before {
+  content: "";
+}
+
+.hnice-icon-angle-double-left:before {
+  content: "";
+}
+
+.hnice-icon-angle-double-right:before {
+  content: "";
+}
+
+.hnice-icon-angle-down:before {
+  content: "";
+}
+
+.hnice-icon-angle-left:before {
+  content: "";
+}
+
+.hnice-icon-angle-right:before {
+  content: "";
+}
+
+.hnice-icon-angle-up:before {
+  content: "";
+}
+
+.hnice-icon-arrow-down-o:before {
+  content: "";
+}
+
+.hnice-icon-arrow-up-o:before {
+  content: "";
+}
+
+.hnice-icon-arrow_s:before {
+  content: "";
+}
+
+.hnice-icon-basin:before {
+  content: "";
+}
+
+.hnice-icon-bathroom:before {
+  content: "";
+}
+
+.hnice-icon-bathroom2:before {
+  content: "";
+}
+
+.hnice-icon-bathtub:before {
+  content: "";
+}
+
+.hnice-icon-bathtub2:before {
+  content: "";
+}
+
+.hnice-icon-box:before {
+  content: "";
+}
+
+.hnice-icon-breadcrumb:before {
+  content: "";
+}
+
+.hnice-icon-bullet-list-line:before {
+  content: "";
+}
+
+.hnice-icon-calendar-alt:before {
+  content: "";
+}
+
+.hnice-icon-cash-payment:before {
+  content: "";
+}
+
+.hnice-icon-check-o:before {
+  content: "";
+}
+
+.hnice-icon-check-square-solid:before {
+  content: "";
+}
+
+.hnice-icon-clock:before {
+  content: "";
+}
+
+.hnice-icon-close-circle-line:before {
+  content: "";
+}
+
+.hnice-icon-delivery:before {
+  content: "";
+}
+
+.hnice-icon-directly:before {
+  content: "";
+}
+
+.hnice-icon-facebook-o:before {
+  content: "";
+}
+
+.hnice-icon-faucet:before {
+  content: "";
+}
+
+.hnice-icon-featured:before {
+  content: "";
+}
+
+.hnice-icon-filters:before {
+  content: "";
+}
+
+.hnice-icon-heating:before {
+  content: "";
+}
+
+.hnice-icon-help-center:before {
+  content: "";
+}
+
+.hnice-icon-home-1:before {
+  content: "";
+}
+
+.hnice-icon-hours-support:before {
+  content: "";
+}
+
+.hnice-icon-hurry:before {
+  content: "";
+}
+
+.hnice-icon-instagram-o:before {
+  content: "";
+}
+
+.hnice-icon-left-arrow:before {
+  content: "";
+}
+
+.hnice-icon-linkedin-in:before {
+  content: "";
+}
+
+.hnice-icon-list-ul:before {
+  content: "";
+}
+
+.hnice-icon-location:before {
+  content: "";
+}
+
+.hnice-icon-mail-o:before {
+  content: "";
+}
+
+.hnice-icon-mail2:before {
+  content: "";
+}
+
+.hnice-icon-map-location-o:before {
+  content: "";
+}
+
+.hnice-icon-mobile-shopping:before {
+  content: "";
+}
+
+.hnice-icon-money-check:before {
+  content: "";
+}
+
+.hnice-icon-movies:before {
+  content: "";
+}
+
+.hnice-icon-phonecall:before {
+  content: "";
+}
+
+.hnice-icon-phonecall2:before {
+  content: "";
+}
+
+.hnice-icon-play-circle:before {
+  content: "";
+}
+
+.hnice-icon-play:before {
+  content: "";
+}
+
+.hnice-icon-plus-o:before {
+  content: "";
+}
+
+.hnice-icon-premium:before {
+  content: "";
+}
+
+.hnice-icon-quote-left:before {
+  content: "";
+}
+
+.hnice-icon-reflex:before {
+  content: "";
+}
+
+.hnice-icon-refund:before {
+  content: "";
+}
+
+.hnice-icon-repeat-wl:before {
+  content: "";
+}
+
+.hnice-icon-reply-line:before {
+  content: "";
+}
+
+.hnice-icon-right-arrow-cicrle:before {
+  content: "";
+}
+
+.hnice-icon-right-arrow:before {
+  content: "";
+}
+
+.hnice-icon-search2:before {
+  content: "";
+}
+
+.hnice-icon-send-back:before {
+  content: "";
+}
+
+.hnice-icon-setting:before {
+  content: "";
+}
+
+.hnice-icon-share-all:before {
+  content: "";
+}
+
+.hnice-icon-shopping-cart2:before {
+  content: "";
+}
+
+.hnice-icon-shoppingcart-o:before {
+  content: "";
+}
+
+.hnice-icon-shower-box:before {
+  content: "";
+}
+
+.hnice-icon-shower:before {
+  content: "";
+}
+
+.hnice-icon-sink:before {
+  content: "";
+}
+
+.hnice-icon-sliders-v:before {
+  content: "";
+}
+
+.hnice-icon-smartphone:before {
+  content: "";
+}
+
+.hnice-icon-star-o:before {
+  content: "";
+}
+
+.hnice-icon-support:before {
+  content: "";
+}
+
+.hnice-icon-system-arrow-right:before {
+  content: "";
+}
+
+.hnice-icon-th-large-o:before {
+  content: "";
+}
+
+.hnice-icon-tile:before {
+  content: "";
+}
+
+.hnice-icon-toilet:before {
+  content: "";
+}
+
+.hnice-icon-towel:before {
+  content: "";
+}
+
+.hnice-icon-truck:before {
+  content: "";
+}
+
+.hnice-icon-twitter-o:before {
+  content: "";
+}
+
+.hnice-icon-user-profile:before {
+  content: "";
+}
+
+.hnice-icon-working-hours:before {
+  content: "";
+}
+
+.hnice-icon-360:before {
+  content: "";
+}
+
+.hnice-icon-arrow-down:before {
+  content: "";
+}
+
+.hnice-icon-arrow-left:before {
+  content: "";
+}
+
+.hnice-icon-arrow-right:before {
+  content: "";
+}
+
+.hnice-icon-arrow-up:before {
+  content: "";
+}
+
+.hnice-icon-bars:before {
+  content: "";
+}
+
+.hnice-icon-caret-down:before {
+  content: "";
+}
+
+.hnice-icon-caret-left:before {
+  content: "";
+}
+
+.hnice-icon-caret-right:before {
+  content: "";
+}
+
+.hnice-icon-caret-up:before {
+  content: "";
+}
+
+.hnice-icon-cart-empty:before {
+  content: "";
+}
+
+.hnice-icon-cart:before {
+  content: "";
+}
+
+.hnice-icon-check-square:before {
+  content: "";
+}
+
+.hnice-icon-chevron-down:before {
+  content: "";
+}
+
+.hnice-icon-chevron-left:before {
+  content: "";
+}
+
+.hnice-icon-chevron-right:before {
+  content: "";
+}
+
+.hnice-icon-chevron-up:before {
+  content: "";
+}
+
+.hnice-icon-circle:before {
+  content: "";
+}
+
+.hnice-icon-cloud-download-alt:before {
+  content: "";
+}
+
+.hnice-icon-comment:before {
+  content: "";
+}
+
+.hnice-icon-comments:before {
+  content: "";
+}
+
+.hnice-icon-compare:before {
+  content: "";
+}
+
+.hnice-icon-contact:before {
+  content: "";
+}
+
+.hnice-icon-credit-card:before {
+  content: "";
+}
+
+.hnice-icon-dot-circle:before {
+  content: "";
+}
+
+.hnice-icon-edit:before {
+  content: "";
+}
+
+.hnice-icon-envelope:before {
+  content: "";
+}
+
+.hnice-icon-expand-alt:before {
+  content: "";
+}
+
+.hnice-icon-external-link-alt:before {
+  content: "";
+}
+
+.hnice-icon-file-alt:before {
+  content: "";
+}
+
+.hnice-icon-file-archive:before {
+  content: "";
+}
+
+.hnice-icon-filter:before {
+  content: "";
+}
+
+.hnice-icon-folder-open:before {
+  content: "";
+}
+
+.hnice-icon-folder:before {
+  content: "";
+}
+
+.hnice-icon-frown:before {
+  content: "";
+}
+
+.hnice-icon-gift:before {
+  content: "";
+}
+
+.hnice-icon-grip-horizontal:before {
+  content: "";
+}
+
+.hnice-icon-heart-fill:before {
+  content: "";
+}
+
+.hnice-icon-heart:before {
+  content: "";
+}
+
+.hnice-icon-history:before {
+  content: "";
+}
+
+.hnice-icon-home:before {
+  content: "";
+}
+
+.hnice-icon-info-circle:before {
+  content: "";
+}
+
+.hnice-icon-instagram:before {
+  content: "";
+}
+
+.hnice-icon-level-up-alt:before {
+  content: "";
+}
+
+.hnice-icon-list:before {
+  content: "";
+}
+
+.hnice-icon-map-marker-check:before {
+  content: "";
+}
+
+.hnice-icon-meh:before {
+  content: "";
+}
+
+.hnice-icon-minus-circle:before {
+  content: "";
+}
+
+.hnice-icon-minus:before {
+  content: "";
+}
+
+.hnice-icon-mobile-android-alt:before {
+  content: "";
+}
+
+.hnice-icon-money-bill:before {
+  content: "";
+}
+
+.hnice-icon-paper-plane:before {
+  content: "";
+}
+
+.hnice-icon-pencil-alt:before {
+  content: "";
+}
+
+.hnice-icon-plus-circle:before {
+  content: "";
+}
+
+.hnice-icon-plus:before {
+  content: "";
+}
+
+.hnice-icon-quickview:before {
+  content: "";
+}
+
+.hnice-icon-random:before {
+  content: "";
+}
+
+.hnice-icon-rating-stroke:before {
+  content: "";
+}
+
+.hnice-icon-rating:before {
+  content: "";
+}
+
+.hnice-icon-repeat:before {
+  content: "";
+}
+
+.hnice-icon-reply-all:before {
+  content: "";
+}
+
+.hnice-icon-reply:before {
+  content: "";
+}
+
+.hnice-icon-search-plus:before {
+  content: "";
+}
+
+.hnice-icon-search:before {
+  content: "";
+}
+
+.hnice-icon-shield-check:before {
+  content: "";
+}
+
+.hnice-icon-shopping-basket:before {
+  content: "";
+}
+
+.hnice-icon-shopping-cart:before {
+  content: "";
+}
+
+.hnice-icon-sign-out-alt:before {
+  content: "";
+}
+
+.hnice-icon-smile:before {
+  content: "";
+}
+
+.hnice-icon-spinner:before {
+  content: "";
+}
+
+.hnice-icon-square:before {
+  content: "";
+}
+
+.hnice-icon-star:before {
+  content: "";
+}
+
+.hnice-icon-store:before {
+  content: "";
+}
+
+.hnice-icon-sync:before {
+  content: "";
+}
+
+.hnice-icon-tachometer-alt:before {
+  content: "";
+}
+
+.hnice-icon-th-large:before {
+  content: "";
+}
+
+.hnice-icon-th-list:before {
+  content: "";
+}
+
+.hnice-icon-thumbtack:before {
+  content: "";
+}
+
+.hnice-icon-ticket:before {
+  content: "";
+}
+
+.hnice-icon-times-circle:before {
+  content: "";
+}
+
+.hnice-icon-times:before {
+  content: "";
+}
+
+.hnice-icon-trophy-alt:before {
+  content: "";
+}
+
+.hnice-icon-user-headset:before {
+  content: "";
+}
+
+.hnice-icon-user-shield:before {
+  content: "";
+}
+
+.hnice-icon-user:before {
+  content: "";
+}
+
+.hnice-icon-video:before {
+  content: "";
+}
+
+.hnice-icon-wishlist-empty:before {
+  content: "";
+}
+
+.hnice-icon-wishlist:before {
+  content: "";
+}
+
